@@ -1,0 +1,8 @@
+@article{REPO-098,
+    author = "Yariv, Lior and Kasten, Yoni and Moran, Dror and Galun, Meirav and Atzmon, Matan and Ronen, Basri and Lipman, Yaron",
+    journal = "Advances in Neural Information Processing Systems",
+    pages = "2492--2502",
+    title = "{Multiview Neural Surface Reconstruction by Disentangling Geometry and Appearance}",
+    volume = "33",
+    year = "2020"
+}
